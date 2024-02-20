@@ -71,7 +71,7 @@ nav button {
 }
 
 #text {
-    width: fit-content;
+    width: 80%;
     height: fit-content;
     text-align: center;
     color: #fff;
