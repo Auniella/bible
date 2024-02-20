@@ -34,7 +34,7 @@ nav {
 
 nav button {
     font-size: 1.1rem;
-    box-shadow: 0.2rem 0.1rem 0rem 0.1rem rgba(255, 255, 255, 0.1);
+    box-shadow: 0.2rem 0.2rem 0.1rem 0.1rem rgba(255, 255, 255, 0.1);
 }
 
 #btn_retour {
@@ -145,7 +145,7 @@ button:active {
 #navigate button {
     width: 9rem;
     font-size: 1.1rem;
-    box-shadow: 0.2rem 0.1rem 0rem 0.1rem rgba(0, 0, 0, 0.3);
+    box-shadow: 0.2rem 0.2rem 0.1rem 0.1rem rgba(0, 0, 0, 0.3);
 }
 
 #previous {
